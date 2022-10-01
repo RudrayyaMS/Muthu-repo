@@ -1,0 +1,4 @@
+x=47
+y=80
+z-x+y)
+print("sum of the vluaes be :"z)
